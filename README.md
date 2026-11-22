@@ -156,15 +156,6 @@ My engineering work bridges the gap between theoretical deep learning foundation
 
 ---
 
-## 🏛️ Academic & Professional Affiliation
-
-- **Degree Program**: Master of Computer Applications (MCA) — Specialization in Artificial Intelligence & Machine Learning
-- **Institution**: School of Engineering & Technology, **K.R. Mangalam University**, Gurugram, India
-- **Core Coursework**: Generative AI and Its Applications (ETMMGA304), Deep Learning & Neural Networks, Computer Vision, Advanced Machine Learning, Advanced Data Structures & Algorithms
-- **Industry Affiliation**: Core Contributor at **EDEMS Pvt. Ltd.**
-
----
-
 <div align="center">
   <sub>Crafted with engineering precision. Explore my live interactive portfolio at <a href="https://vinayaksharmadev.vercel.app/"><strong>vinayaksharmadev.vercel.app</strong></a>.</sub>
 </div>

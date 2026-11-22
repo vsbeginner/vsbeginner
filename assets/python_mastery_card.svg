@@ -1,0 +1,35 @@
+<svg width="840" height="220" viewBox="0 0 840 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="840" height="220" rx="16" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="839" height="219" rx="15.5" stroke="#30363d"/>
+  
+  <!-- Subtle Grid Accent -->
+  <g opacity="0.15">
+    <path d="M0 44H840M0 88H840M0 132H840M0 176H840" stroke="#8b949e" stroke-width="0.8"/>
+    <path d="M120 0V220M240 0V220M360 0V220M480 0V220M600 0V220M720 0V220" stroke="#8b949e" stroke-width="0.8"/>
+  </g>
+
+  <!-- Python Logo Symbol -->
+  <g transform="translate(68, 55)">
+    <path d="M50 0C25 0 25 11 25 11L25 22L50 22L50 26L15 26C15 26 0 26 0 52C0 78 13 77 13 77L21 77L21 66C21 66 21 53 34 53L60 53C60 53 71 53 71 42L71 11C71 11 72 0 50 0ZM37 7C40 7 43 10 43 13C43 16 40 19 37 19C34 19 31 16 31 13C31 10 34 7 37 7Z" fill="#3776AB"/>
+    <path d="M50 105C75 105 75 94 75 94L75 83L50 83L50 79L85 79C85 79 100 79 100 53C100 27 87 28 87 28L79 28L79 39C79 39 79 52 66 52L40 52C40 52 29 52 29 63L29 94C29 94 28 105 50 105ZM63 98C60 98 57 95 57 92C57 89 60 86 63 86C66 86 69 89 69 92C69 95 66 98 63 98Z" fill="#FFD43B"/>
+  </g>
+
+  <!-- Text Header -->
+  <text x="195" y="86" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'JetBrains Mono', Roboto, sans-serif" font-size="34" font-weight="800" letter-spacing="-0.5">PYTHON MASTERY</text>
+  <text x="515" y="86" fill="#58a6ff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'JetBrains Mono', Roboto, sans-serif" font-size="34" font-weight="400" letter-spacing="-0.5">FROM SCRATCH</text>
+  
+  <text x="195" y="122" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="400">Implement language internals, memory algorithms, and object-oriented runtimes.</text>
+  <text x="195" y="146" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="400">7 Core Modules · 65+ Verified Assignment Questions · Zero-Dependency Executable Code</text>
+
+  <!-- Tags Pill Row -->
+  <g transform="translate(195, 168)">
+    <rect width="112" height="24" rx="12" fill="#1f293d"/>
+    <text x="56" y="16" fill="#58a6ff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600" text-anchor="middle">PYTHON 3.15</text>
+
+    <rect x="122" width="130" height="24" rx="12" fill="#1f293d"/>
+    <text x="187" y="16" fill="#7ee787" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600" text-anchor="middle">100% RUNNABLE</text>
+
+    <rect x="262" width="135" height="24" rx="12" fill="#1f293d"/>
+    <text x="329" y="16" fill="#d2a8ff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600" text-anchor="middle">PYCHARM READY</text>
+  </g>
+</svg>

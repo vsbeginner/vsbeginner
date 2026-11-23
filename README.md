@@ -95,21 +95,6 @@ My engineering work bridges the gap between theoretical deep learning foundation
           <img src="https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github" alt="DL Repo">
         </a>
       </td>
-      <td width="50%" valign="top">
-        <a href="https://github.com/vsbeginner/Python-Mastery">
-          <img src="assets/python_mastery_card.svg" alt="Python Mastery Framework" width="100%"><br><br>
-          <b>Python Mastery: Advanced Engineering & Algorithms</b>
-        </a><br>
-        A comprehensive, production-oriented curriculum and reference repository:
-        <ul>
-          <li><b>Core & Memory</b>: Low-level data structures, memory management, and computational complexity.</li>
-          <li><b>Advanced OOP</b>: Metaclasses, dunder methods, abstract base classes, and creational/structural design patterns.</li>
-          <li><b>Concurrency & IO</b>: Asynchronous programming (asyncio), multiprocessing, and robust exception frameworks.</li>
-        </ul>
-        <a href="https://github.com/vsbeginner/Python-Mastery">
-          <img src="https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github" alt="Python Mastery Repo">
-        </a>
-      </td>
     </tr>
   </tbody>
 </table>

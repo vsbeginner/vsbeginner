@@ -9,8 +9,6 @@
 [![Streamlit Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://vsbeginner-genai-study-tip.streamlit.app)
 [![GitHub](https://img.shields.io/badge/GitHub-vsbeginner-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vsbeginner)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinayak%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-sharma-24a8aa384/)
-[![Email](https://img.shields.io/badge/Email-vsbeginner14%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vsbeginner14@gmail.com)
-[![Program](https://img.shields.io/badge/Academic-Master%20of%20Computer%20Applications-orange?style=for-the-badge&logo=googlescholar)](https://github.com/vsbeginner)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Bridging+Mathematical+Intelligence+with+the+Physical+World;Deep+Learning+%7C+Generative+AI+%7C+Computer+Vision+%7C+Robotics;Building+Autonomous+Perception+%26+Full-Stack+AI+Systems" alt="Typing SVG" />

@@ -31,18 +31,13 @@ My engineering work bridges the gap between theoretical deep learning foundation
 
 ---
 
-## 🌟 Featured Flagship Project
+## 🌟 Personal Portfolio
 
 <div align="center">
   <a href="https://github.com/vsbeginner/Vinayak-Sharma-Personal-Portfolio-Website">
     <img src="assets/portfolio_hero.webp" alt="Vinayak Sharma Personal Portfolio Website Hero Section" width="100%">
   </a>
   <br><br>
-
-  ### 🌐 [Vinayak Sharma — Personal Portfolio Website](https://github.com/vsbeginner/Vinayak-Sharma-Personal-Portfolio-Website)
-
-  [![Live Portfolio](https://img.shields.io/badge/Live%20Platform-vinayaksharmadev.vercel.app-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://vinayaksharmadev.vercel.app/)
-  [![GitHub Repository](https://img.shields.io/badge/GitHub%20Repository-Vinayak--Sharma--Personal--Portfolio--Website-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vsbeginner/Vinayak-Sharma-Personal-Portfolio-Website)
 </div>
 
 Modern, responsive engineering portfolio and interactive platform showcasing AI/ML research projects, robotics perception systems, and full-stack software architectures:

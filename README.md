@@ -31,64 +31,25 @@ My engineering work bridges the gap between theoretical deep learning foundation
 
 ---
 
-## 🌟 Featured Flagship Engineering Products
+## 🌟 Featured Flagship Project
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="50%" align="center">🤖 Robotics & Perception</th>
-      <th width="50%" align="center">🧠 Generative AI & LLMs</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="50%" valign="top">
-        <a href="https://github.com/vsbeginner/AI_Based_Vision_Controlled_Robotic_Arm_For_Selective_Object_Manipulation">
-          <img src="assets/robotic_arm_illustration.jpg" alt="Vision-Controlled Robotic Arm" width="100%"><br><br>
-          <b>Vision-Controlled 5-DOF Autonomous Robotic Arm</b>
-        </a><br>
-        Autonomous physical pick-and-place manipulation system powered by deep learning computer vision:
-        <ul>
-          <li><b>Perception</b>: Real-time object detection and classification via custom YOLOv8 and OpenCV pipeline.</li>
-          <li><b>Kinematics</b>: Real-world Cartesian workspace mapping with calibrated pixel-to-coordinate transformation.</li>
-          <li><b>Hardware Actuation</b>: Multi-axis DC gearmotor actuation via Arduino Mega and dual L298N drivers with dynamic Flask web telemetry.</li>
-        </ul>
-        <a href="https://github.com/vsbeginner/AI_Based_Vision_Controlled_Robotic_Arm_For_Selective_Object_Manipulation">
-          <img src="https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github" alt="Robotic Arm Repo">
-        </a>
-      </td>
-      <td width="50%" valign="top">
-        <a href="https://github.com/vsbeginner/genai-lab-assignments">
-          <img src="assets/genai_showcase.png" alt="Generative AI Research Laboratory" width="100%"><br><br>
-          <b>Generative AI & Probabilistic Models Suite</b>
-        </a><br>
-        Research engineering laboratory and capstone implementations across foundational generative paradigms:
-        <ul>
-          <li><b>Probabilistic VAE</b>: Stochastic reparameterization & 2D latent manifold geometry on MNIST.</li>
-          <li><b>Minimax GAN</b>: Alternating adversarial updates & mode collapse auditing on Fashion-MNIST.</li>
-          <li><b>Autoregressive LM</b>: PEFT last-block tuning on GPT-2 with prompt-token loss masking.</li>
-          <li><b>Latent Diffusion</b>: Seed-invariance factorial prompt synthesis via Stable Diffusion v1.5.</li>
-          <li><b>Production Capstone</b>: Domain-adapted pedagogical generator with an interactive Streamlit UI and automated <code>AppTest</code> CI suite.</li>
-        </ul>
-        <a href="https://github.com/vsbeginner/genai-lab-assignments">
-          <img src="https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github" alt="GenAI Repo">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <th width="50%" align="center">🔬 Deep Learning Research</th>
-      <th width="50%" align="center">🐍 Software Systems & Architecture</th>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        </ul>
-        <a href="https://github.com/vsbeginner/DL_Capstone_Experiments">
-          <img src="https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github" alt="DL Repo">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+  <a href="https://github.com/vsbeginner/Vinayak-Sharma-Personal-Portfolio-Website">
+    <img src="assets/portfolio_hero.webp" alt="Vinayak Sharma Personal Portfolio Website Hero Section" width="100%">
+  </a>
+  <br><br>
+
+  ### 🌐 [Vinayak Sharma — Personal Portfolio Website](https://github.com/vsbeginner/Vinayak-Sharma-Personal-Portfolio-Website)
+
+  [![Live Portfolio](https://img.shields.io/badge/Live%20Platform-vinayaksharmadev.vercel.app-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://vinayaksharmadev.vercel.app/)
+  [![GitHub Repository](https://img.shields.io/badge/GitHub%20Repository-Vinayak--Sharma--Personal--Portfolio--Website-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vsbeginner/Vinayak-Sharma-Personal-Portfolio-Website)
+</div>
+
+Modern, responsive engineering portfolio and interactive platform showcasing AI/ML research projects, robotics perception systems, and full-stack software architectures:
+
+- **Dynamic Interactive UX**: Seamless fluid animations, dynamic typography, and responsive component hierarchy optimized across mobile and desktop displays.
+- **Engineering Visualizations**: Multi-dimensional skill telemetry, interactive technical matrices, and real-time project metrics.
+- **Production Architecture**: Zero-dependency optimized frontend deployed on Vercel's global edge network with sub-second paint times and automated asset pipeline optimization.
 
 ---
 

@@ -81,15 +81,6 @@ My engineering work bridges the gap between theoretical deep learning foundation
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <a href="https://github.com/vsbeginner/DL_Capstone_Experiments">
-          <img src="assets/portfolio_hero.webp" alt="Deep Learning Research Benchmark" width="100%"><br><br>
-          <b>Deep Learning Research & Capstone Benchmark</b>
-        </a><br>
-        Systematic benchmarking and empirical evaluation of deep neural architectures:
-        <ul>
-          <li><b>Credit Risk MLP</b>: Deep Multi-Layer Perceptrons for tabular risk assessment, feature scaling, and ROC-AUC optimization.</li>
-          <li><b>Vision CNN</b>: Deep Convolutional Neural Networks with data augmentation, dropout regularization, and confusion matrix profiling.</li>
-          <li><b>NLP RNN & LSTM</b>: Recurrent sequence modeling for sentiment classification with pre-trained word embeddings and vanishing gradient mitigation.</li>
         </ul>
         <a href="https://github.com/vsbeginner/DL_Capstone_Experiments">
           <img src="https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github" alt="DL Repo">

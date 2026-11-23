@@ -6,6 +6,7 @@
 ### AI/ML Research Engineer • Physical AI & Robotics Builder • Systems Architect
 
 [![Portfolio](https://img.shields.io/badge/Live%20Portfolio-vinayaksharmadev.vercel.app-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://vinayaksharmadev.vercel.app/)
+[![Streamlit Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://vsbeginner-genai-study-tip.streamlit.app)
 [![GitHub](https://img.shields.io/badge/GitHub-vsbeginner-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vsbeginner)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinayak%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-sharma-24a8aa384/)
 [![Email](https://img.shields.io/badge/Email-vsbeginner14%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vsbeginner14@gmail.com)

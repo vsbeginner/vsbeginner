@@ -95,7 +95,3 @@ Modern, responsive engineering portfolio and interactive platform showcasing AI/
 </div>
 
 ---
-
-<div align="center">
-  <sub>Crafted with engineering precision. Explore my live interactive portfolio at <a href="https://vinayaksharmadev.vercel.app/"><strong>vinayaksharmadev.vercel.app</strong></a>.</sub>
-</div>

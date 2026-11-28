@@ -5,7 +5,6 @@
 # Hi there, I'm Vinayak Sharma 👋
 ### AI/ML Research Engineer • Physical AI & Robotics Builder • Systems Architect
 
-[![Portfolio](https://img.shields.io/badge/Live%20Portfolio-vinayaksharmadev.vercel.app-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://vinayaksharmadev.vercel.app/)
 [![LinguaInsight](https://img.shields.io/badge/LinguaInsight-Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://linguainsight.streamlit.app)
 [![StudyTip AI](https://img.shields.io/badge/StudyTip%20AI-Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://studytipgenerator.streamlit.app)
 

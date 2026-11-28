@@ -8,7 +8,7 @@
 [![Portfolio](https://img.shields.io/badge/Live%20Portfolio-vinayaksharmadev.vercel.app-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://vinayaksharmadev.vercel.app/)
 [![LinguaInsight](https://img.shields.io/badge/LinguaInsight-Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://linguainsight.streamlit.app)
 [![StudyTip AI](https://img.shields.io/badge/StudyTip%20AI-Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://studytipgenerator.streamlit.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinayak%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-sharma-24a8aa384/)
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Bridging+Mathematical+Intelligence+with+the+Physical+World;Deep+Learning+%7C+Generative+AI+%7C+Computer+Vision+%7C+Robotics;Building+Autonomous+Perception+%26+Full-Stack+AI+Systems" alt="Typing SVG" />

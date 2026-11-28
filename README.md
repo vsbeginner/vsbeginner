@@ -6,7 +6,8 @@
 ### AI/ML Research Engineer • Physical AI & Robotics Builder • Systems Architect
 
 [![Portfolio](https://img.shields.io/badge/Live%20Portfolio-vinayaksharmadev.vercel.app-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://vinayaksharmadev.vercel.app/)
-[![Streamlit Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://studytipgenerator.streamlit.app)
+[![LinguaInsight](https://img.shields.io/badge/LinguaInsight-Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://linguainsight.streamlit.app)
+[![StudyTip AI](https://img.shields.io/badge/StudyTip%20AI-Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://studytipgenerator.streamlit.app)
 [![GitHub](https://img.shields.io/badge/GitHub-vsbeginner-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vsbeginner)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinayak%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-sharma-24a8aa384/)
 
@@ -26,7 +27,17 @@ My engineering work bridges the gap between theoretical deep learning foundation
 - **Generative AI & Probabilistic Modeling**: Evidence Lower Bound (ELBO) optimization in VAEs, adversarial game-theoretic minimax convergence in GANs, parameter-efficient fine-tuning (PEFT) on causal language models (GPT-2), and multimodal latent diffusion pipelines (Stable Diffusion v1.5).
 - **Computer Vision & Physical Robotics**: Real-time object detection (YOLOv8, OpenCV), 2D Cartesian inverse kinematics, multi-axis motor actuation, and embedded microcontroller firmware (Arduino Mega, ESP32-S3).
 - **Deep Neural Architectures**: Empirical implementations of MLPs, Deep CNNs, Bidirectional LSTMs, and sequence-to-sequence models with rigorous loss surface profiling.
+- **Multilingual NLP & Sentiment Intelligence**: End-to-end cross-lingual pipelines combining TF-IDF linear baselines, fine-tuned XLM-RoBERTa transformers, Hinglish code-mixed language identification, and exact feature attribution / occlusion explainability.
 - **Full-Stack AI Engineering**: High-performance responsive web applications, API microservices, and interactive data visualization dashboards (Next.js, FastAPI, Flask, Streamlit, Tailwind CSS).
+
+---
+
+## 🚀 Live Interactive AI Applications
+
+| Application | Focus & Core Stack | Live Deployment | Repository |
+|:---|:---|:---:|:---:|
+| **LinguaInsight** | Multilingual Review Sentiment Analysis across 10 languages including Hinglish (TF-IDF, XLM-RoBERTa, Explainability & 7-page Analytics Studio) | [![Live App](https://img.shields.io/badge/Streamlit-Launch-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://linguainsight.streamlit.app) | [vsbeginner/LinguaInsight](https://github.com/vsbeginner/LinguaInsight) |
+| **StudyTip AI** | Domain-Adapted GPT-2 Pedagogical Study Tip Generator & Comparative Evaluation Studio (PyTorch, Hugging Face PEFT, Streamlit) | [![Live App](https://img.shields.io/badge/Streamlit-Launch-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://studytipgenerator.streamlit.app) | [vsbeginner/genai-lab-assignments](https://github.com/vsbeginner/genai-lab-assignments) |
 
 ---
 

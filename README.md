@@ -5,6 +5,8 @@
 # Hi there, I'm Vinayak Sharma 👋
 ### AI/ML Research Engineer • Physical AI & Robotics Builder • Systems Architect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Netlify%20Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://vinayakportfoliofullstack.netlify.app/)
+[![Grid Layout](https://img.shields.io/badge/Grid%20Layout-Netlify%20Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://vinayaknaturethemegridlayout.netlify.app/)
 [![LinguaInsight](https://img.shields.io/badge/LinguaInsight-Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://linguainsight.streamlit.app)
 [![StudyTip AI](https://img.shields.io/badge/StudyTip%20AI-Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://studytipgenerator.streamlit.app)
 
@@ -30,12 +32,14 @@ My engineering work bridges the gap between theoretical deep learning foundation
 
 ---
 
-## 🚀 Live Interactive AI Applications
+## 🚀 Live Interactive AI & Web Applications
 
 | Application | Focus & Core Stack | Live Deployment | Repository |
 |:---|:---|:---:|:---:|
 | **LinguaInsight** | Multilingual Review Sentiment Analysis across 10 languages including Hinglish (TF-IDF, XLM-RoBERTa, Explainability & 7-page Analytics Studio) | [![Live App](https://img.shields.io/badge/Streamlit-Launch-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://linguainsight.streamlit.app) | [vsbeginner/LinguaInsight](https://github.com/vsbeginner/LinguaInsight) |
 | **StudyTip AI** | Domain-Adapted GPT-2 Pedagogical Study Tip Generator & Comparative Evaluation Studio (PyTorch, Hugging Face PEFT, Streamlit) | [![Live App](https://img.shields.io/badge/Streamlit-Launch-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://studytipgenerator.streamlit.app) | [vsbeginner/genai-lab-assignments](https://github.com/vsbeginner/genai-lab-assignments) |
+| **Personal Portfolio Website** | Responsive Engineering Portfolio with interactive project showcases, AOS scroll animations & dark/light theme toggling (HTML5, CSS3, ES6+) | [![Live App](https://img.shields.io/badge/Netlify-Launch-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://vinayakportfoliofullstack.netlify.app/) | [vsbeginner/Vinayak-Sharma-Personal-Portfolio-Website](https://github.com/vsbeginner/Vinayak-Sharma-Personal-Portfolio-Website) |
+| **Nature Theme Grid Layout** | Multi-track CSS Grid responsive architecture with fluid typography and cross-breakpoint ergonomics (HTML5, CSS Grid) | [![Live App](https://img.shields.io/badge/Netlify-Launch-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://vinayaknaturethemegridlayout.netlify.app/) | [vsbeginner/grid-layout-assignment](https://github.com/vsbeginner/grid-layout-assignment) |
 
 ---
 

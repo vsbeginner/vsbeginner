@@ -39,23 +39,6 @@ My engineering work bridges the gap between theoretical deep learning foundation
 
 ---
 
-## 🌟 Personal Portfolio
-
-<div align="center">
-  <a href="https://github.com/vsbeginner/Vinayak-Sharma-Personal-Portfolio-Website">
-    <img src="assets/portfolio_hero.webp" alt="Vinayak Sharma Personal Portfolio Website Hero Section" width="100%">
-  </a>
-  <br><br>
-</div>
-
-Modern, responsive engineering portfolio and interactive platform showcasing AI/ML research projects, robotics perception systems, and full-stack software architectures:
-
-- **Dynamic Interactive UX**: Seamless fluid animations, dynamic typography, and responsive component hierarchy optimized across mobile and desktop displays.
-- **Engineering Visualizations**: Multi-dimensional skill telemetry, interactive technical matrices, and real-time project metrics.
-- **Production Architecture**: Zero-dependency optimized frontend deployed on Vercel's global edge network with sub-second paint times and automated asset pipeline optimization.
-
----
-
 ## 🛠️ Comprehensive Technical Architecture & Skill Matrix
 
 ```
